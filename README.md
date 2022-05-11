@@ -1,3 +1,4 @@
+[README.md](https://github.com/jlife24/jlife24/files/8665901/README.md)
 - 👋 Hi, I’m Stanley
 - 👀 I’m interested in Software Engineering
 - 🌱 I’m currently learning JavaScript, CSS, React
